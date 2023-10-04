@@ -1,0 +1,1 @@
+This is movie finder Project made using React 
